@@ -1,6 +1,6 @@
 Hey Guys!!😁
 
-Hoje projeto realizado com o React  🚀🚀
+Projeto realizado com o React  🚀🚀
 
 
 Esse é o Prime Flix, um projeto de estudo com filmes para ver sinopses, avaliações, trailers e ainda rola de criar uma lista de filmes favoritos para adicionar ou remover filmes.
